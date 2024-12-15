@@ -26,7 +26,7 @@ yarn install
 
 - NEXT_PUBLIC_ALCHEMY_API_KEY = <Provide an API key from Alchemy> (get your API key when you sign up on [Alchemy](https://auth.alchemy.com/signup))
 - NEXT_PUBLIC_NETWORK = <starknet-mainnet | starknet-goerli>
-- NEXT_PUBLIC_EXPLORER = <https://testnet.starkscan.co | https://starkscan.co>
+- NEXT_PUBLIC_EXPLORER = <https://testnet.starkscan.co> | <https://starkscan.co>
 
 ### Run project
 
